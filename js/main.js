@@ -90,9 +90,7 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
 
         // Invoke callback if counter is refilling (i.e. deduct time from larger counter)
         if(refillCallback && data.current == data.refillValue) {
-            counter.each("end", function() {
-                refillCallback();
-            });
+            refillCallback();
         }
     };
 
