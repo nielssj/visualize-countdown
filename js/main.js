@@ -76,7 +76,7 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
         var parent = d3.select("#" + parentId);
 
         // Animate arc
-        var counter = parent.select(".progArc")
+        parent.select(".progArc")
             .transition()
             .duration(1000)
             .call(arcTween, data.currentRad);
