@@ -204,7 +204,7 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
     var periodDur = moment.utc(arrival).diff(start);
     var remDur = moment.utc(arrival).diff(moment());
     var remPerc = remDur / periodDur;
-    initializePercentage(1.0);
+    initializePercentage(1);
     adjustPercentage(remPerc);
 
     // Start interval timer to adjust counters once every second
