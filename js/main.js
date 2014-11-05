@@ -143,10 +143,10 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
             .datum({value: perc})
             .text(percF + "%");
         d3.select("#passedPercLabel")
-            .datum({value: perc})
+            .datum({value: 1-perc})
             .text(percF + "%");
         d3.select("#remainPercLabel")
-            .datum({value: 1-perc})
+            .datum({value: perc})
             .text(percR + "%");
     };
 
