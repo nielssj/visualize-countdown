@@ -115,11 +115,40 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
         AdjustCounter(gId, data);
     };
 
+    var initializePercentage = function(perc) {
+        d3.select("#path4585").remove();
+        d3.select("#path4587").remove();
+
+        var gW = 540 * (1-perc);
+        var bW = 540 * perc;
+
+        d3.select("#g3083").insert("rect", ":first-child")
+            .attr("width", gW) // max 540
+            .style("fill", "#d3d2d2")
+            .attr("transform", "translate(127,1024)")
+            .attr("height", 22);
+
+        d3.select("#g3083").insert("rect", ":first-child")
+            .attr("width", bW) // max 540
+            .style("fill", "#58b4f2")
+            .attr("transform", "translate(" + (127+gW) + ",1024)")
+            .attr("height", 22.1);
+
+        d3.select("#tspan3077").text(perc * 100 + "%");
+        d3.select("#passedPercLabel").text((1-perc) * 100 + "%");
+        d3.select("#remainPercLabel").text(perc * 100 + "%");
+    };
+
+    var adjustPercentage = function(perc) {
+        // TODO: Implement adjustment with animation (IDEA: animate labels as well)
+    };
+
     // Initialize all 3 counters
     initializeCounter("seconds", currentSecond());
     initializeCounter("minutes", currentMinute());
     initializeCounter("hours", currentHour());
     AdjustDayLabel("days", currentHour());
+    initializePercentage(0.32);
 
     // Start interval timer to adjust counters once every second
     setInterval(function () {
@@ -127,7 +156,7 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
         AdjustCounter("seconds", currentSecond(), function() {
             AdjustCounter("minutes", currentMinute(), function() {
                 AdjustCounter("hours", currentHour(), function() {
-                    AdjustDayLabel("#tspan3101", currentHour());
+                    AdjustDayLabel("days", currentHour());
                 })
             });
         });
