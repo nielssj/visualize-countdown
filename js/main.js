@@ -9,6 +9,7 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
 
     // Initialize target date to countdown towards
     var arrival = moment("2014-12-19 11:00 +0800", "YYYY-MM-DD HH:mm Z");
+    var start = moment(moment("2014-09-01 12:00 +0200", "YYYY-MM-DD HH:mm Z"));
 
     // Center entire SVG element
     var svg = d3.select("svg")
@@ -134,9 +135,10 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
             .attr("transform", "translate(" + (127+gW) + ",1024)")
             .attr("height", 22.1);
 
-        d3.select("#tspan3077").text(perc * 100 + "%");
-        d3.select("#passedPercLabel").text((1-perc) * 100 + "%");
-        d3.select("#remainPercLabel").text(perc * 100 + "%");
+        var percF = Math.round(perc * 100)/100;
+        d3.select("#tspan3077").text(percF * 100 + "%");
+        d3.select("#passedPercLabel").text((1-percF) * 100 + "%");
+        d3.select("#remainPercLabel").text(percF * 100 + "%");
     };
 
     var adjustPercentage = function(perc) {
@@ -148,7 +150,12 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
     initializeCounter("minutes", currentMinute());
     initializeCounter("hours", currentHour());
     AdjustDayLabel("days", currentHour());
-    initializePercentage(0.32);
+
+    // Initialize percentage
+    var periodDur = moment.utc(arrival).diff(start);
+    var remDur = moment.utc(arrival).diff(moment());
+    var remPerc = remDur / periodDur;
+    initializePercentage(remPerc);
 
     // Start interval timer to adjust counters once every second
     setInterval(function () {
