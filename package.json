@@ -1,0 +1,17 @@
+{
+  "name": "visualize-countdown",
+  "version": "0.0.0",
+  "description": "D3.js and SVG based animated countdown to a given date",
+  "main": "index.html",
+  "dependencies": {
+    "d3": "3.4.9",
+    "moment": "~2.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python -m SimpleHTTPServer 8080"
+  },
+  "author": "Niels Søholm (nm@9la.dk)",
+  "license": "ISC"
+}
