@@ -39,7 +39,7 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
     d3.select("#g5279-7").remove();
     d3.select("#g9273-1").remove();
     d3.select("#remainPercLabel-2-4-3-6-7").remove();
-    var dogComparisonData = {
+    cCompare.initializeComparison({
         selector: "#g10154",
         leftValue: moment.duration(52.14, "days"),
         leftLabel: "Dog year",
@@ -51,8 +51,7 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
             leftRadius: 50,
             middlePadding: 48
         }
-    };
-    cCompare.initializeComparison(dogComparisonData);
+    });
 
     d3.select("#g5283-8-6-7").remove();
     d3.select("#g10196").remove();
@@ -60,7 +59,7 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
     d3.select("#layer1").insert("g", ":first-child")
         .attr("transform", "translate(88.297496,-24)")
         .attr("id", "gITU");
-    var ituComparisonData = {
+    cCompare.initializeComparison({
         selector: "#gITU",
         leftValue: moment.duration(5, "months"),
         leftLabel: "Semester\n at ITU",
@@ -72,8 +71,7 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
             leftRadius: 83,
             middlePadding: 38
         }
-    };
-    cCompare.initializeComparison(ituComparisonData);
+    });
 
     d3.select("#g5283-8-66").remove();
     d3.select("#g5283-8-69-6").remove();
@@ -81,7 +79,7 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
     d3.select("#layer1").insert("g", ":first-child")
         .attr("transform", "translate(88.297496,-24)")
         .attr("id", "gTheresa");
-    var ituComparisonData = {
+    cCompare.initializeComparison({
         selector: "#gTheresa",
         leftValue: moment.duration(30, "years"),
         leftLabel: "Theresa's\nlifespan\n(so far)",
@@ -93,8 +91,7 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
             leftRadius: 94,
             middlePadding: 99
         }
-    };
-    cCompare.initializeComparison(ituComparisonData);
+    });
 
     // Start interval timer to adjust counters once every second
     setInterval(function () {
