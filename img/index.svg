@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="595.66406"
-   height="1981.8147"
+   height="1997.8147"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="index-relative.svg">
+   sodipodi:docname="index.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="164.52011"
-     inkscape:cy="275.59682"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-419.8118"
+     inkscape:cy="974.43063"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g10154"
      showgrid="false"
      fit-margin-top="20"
      fit-margin-left="20"
@@ -50,7 +50,7 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="18.608742px"
-       originy="1627.8117px" />
+       originy="1643.8117px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -355,7 +355,7 @@
          id="tspan3071">entire time apart </tspan></text>
     <g
        id="g9668"
-       transform="translate(88.638446,338)">
+       transform="translate(88.638446,354)">
       <g
          id="g9687"
          transform="translate(118,-47)">
@@ -404,28 +404,28 @@
                id="path5285-7-8-5-4" />
           </g>
         </g>
-        <text
-           xml:space="preserve"
-           style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-           x="326.86145"
-           y="1349.6948"
-           id="remainPercLabel-2-4-0"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="326.86145"
-             y="1349.6948"
-             id="tspan9048-9-3"
-             style="font-size:13px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Remaining</tspan><tspan
-             id="tspan9443-6"
-             sodipodi:role="line"
-             x="326.86145"
-             y="1365.9448"
-             style="font-size:13px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">time</tspan></text>
       </g>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="408.85803"
+         y="1274.6171"
+         id="remainPercLabel-2-4-3-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="408.85803"
+           y="1274.6171"
+           id="tspan9048-9-5-3"
+           style="font-size:14px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">Remaining</tspan><tspan
+           id="tspan9443-9-8"
+           sodipodi:role="line"
+           x="408.85803"
+           y="1292.1171"
+           style="font-size:14px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">time</tspan></text>
     </g>
     <g
        id="g9861"
-       transform="translate(340.2975,799)">
+       transform="translate(340.2975,815)">
       <g
          transform="translate(-333.19944,303.49995)"
          id="g9250">
@@ -543,66 +543,73 @@
        id="g10154"
        transform="translate(88.297496,-24)">
       <g
-         id="g9273"
-         transform="translate(12.247375,200.99998)">
+         id="g11015"
+         transform="translate(0,16)">
         <g
-           id="g5279-7"
-           transform="matrix(1.875,0,0,-1.875,220.22525,1098.7146)"
-           style="fill:#d3d2d2;fill-opacity:1">
-          <path
-             inkscape:connector-curvature="0"
-             d="m 0,0 c 14.801,0 26.804,-12.003 26.804,-26.805 0,-14.8 -12.003,-26.804 -26.804,-26.804 -14.801,0 -26.805,12.004 -26.805,26.804 C -26.805,-12.003 -14.801,0 0,0"
-             style="fill:#d3d2d2;fill-opacity:1;fill-rule:evenodd;stroke:none"
-             id="path5281-9" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-           x="220.15791"
-           y="1143.0785"
-           id="remainPercLabel-2"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan3921-2"
-             x="220.15791"
+           transform="translate(12.247375,200.99998)"
+           id="g9273">
+          <g
+             style="fill:#d3d2d2;fill-opacity:1"
+             transform="matrix(1.875,0,0,-1.875,220.22525,1098.7146)"
+             id="g5279-7">
+            <path
+               id="path5281-9"
+               style="fill:#d3d2d2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+               d="m 0,0 c 14.801,0 26.804,-12.003 26.804,-26.805 0,-14.8 -12.003,-26.804 -26.804,-26.804 -14.801,0 -26.805,12.004 -26.805,26.804 C -26.805,-12.003 -14.801,0 0,0"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="remainPercLabel-2"
              y="1143.0785"
-             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">Dog</tspan><tspan
-             sodipodi:role="line"
              x="220.15791"
-             y="1163.0785"
-             id="tspan9048"
-             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">year</tspan></text>
-      </g>
-      <g
-         id="g9280"
-         transform="translate(32.247379,200.99998)">
-        <g
-           id="g5279-7-8"
-           transform="matrix(2.1058125,0,0,-2.1058125,344.90694,1086.5281)"
-           style="fill:#58b4f2;fill-opacity:1">
-          <path
-             inkscape:connector-curvature="0"
-             d="m 0,0 c 14.801,0 26.804,-12.003 26.804,-26.805 0,-14.8 -12.003,-26.804 -26.804,-26.804 -14.801,0 -26.805,12.004 -26.805,26.804 C -26.805,-12.003 -14.801,0 0,0"
-             style="fill:#58b4f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
-             id="path5281-9-9" />
+             style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             xml:space="preserve"><tspan
+               style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1"
+               y="1143.0785"
+               x="220.15791"
+               id="tspan3921-2"
+               sodipodi:role="line">Dog</tspan><tspan
+               style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1"
+               id="tspan9048"
+               y="1163.0785"
+               x="220.15791"
+               sodipodi:role="line">year</tspan></text>
         </g>
-        <text
-           xml:space="preserve"
-           style="font-size:20px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-           x="344.91467"
-           y="1138.4338"
-           id="remainPercLabel-8"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan3921-8"
-             x="344.91467"
-             y="1138.4338"
-             style="font-size:16px">Remaining</tspan><tspan
-             sodipodi:role="line"
-             x="344.91467"
-             y="1158.4338"
-             id="tspan9071"
-             style="font-size:16px">time</tspan></text>
+        <g
+           id="g11007">
+          <g
+             id="g9273-1"
+             transform="matrix(0.8,0,0,0.8,214.69439,440.84627)">
+            <g
+               id="g5279-7-7"
+               transform="matrix(1.875,0,0,-1.875,220.22525,1098.7146)"
+               style="fill:#58b4f2;fill-opacity:1">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c 14.801,0 26.804,-12.003 26.804,-26.805 0,-14.8 -12.003,-26.804 -26.804,-26.804 -14.801,0 -26.805,12.004 -26.805,26.804 C -26.805,-12.003 -14.801,0 0,0"
+                 style="fill:#58b4f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+                 id="path5281-9-5" />
+            </g>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:14px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+             x="390.82599"
+             y="1291.6171"
+             id="remainPercLabel-2-4-3-6-7"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="390.82599"
+               y="1291.6171"
+               id="tspan9048-9-5-3-6"
+               style="font-size:14px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">Remaining</tspan><tspan
+               id="tspan9443-9-8-4"
+               sodipodi:role="line"
+               x="390.82599"
+               y="1309.1171"
+               style="font-size:14px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">time</tspan></text>
+        </g>
       </g>
     </g>
     <text
@@ -624,39 +631,39 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8a9294;fill-opacity:1;stroke:none;font-family:Sans"
        x="396.98462"
-       y="1482.0085"
+       y="1498.0085"
        id="text3119-73-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="403.35181"
-         y="1482.0085"
+         y="1498.0085"
          id="tspan10152-7">Better compare it to </tspan><tspan
          sodipodi:role="line"
          x="396.98462"
-         y="1532.0085"
+         y="1548.0085"
          id="tspan10194">something more substantial</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8a9294;fill-opacity:1;stroke:none;font-family:Sans"
        x="396.2229"
-       y="1846.0085"
+       y="1862.0085"
        id="text3119-73-8-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="402.59009"
-         y="1846.0085"
+         y="1862.0085"
          id="tspan10230">Hmm, perhaps if I </tspan><tspan
          sodipodi:role="line"
          x="402.59009"
-         y="1896.0085"
+         y="1912.0085"
          id="tspan10234">compared it to an </tspan><tspan
          sodipodi:role="line"
          x="396.2229"
-         y="1946.0085"
+         y="1962.0085"
          id="tspan10236">unfathomly long timespan</tspan></text>
     <g
        id="g9861-6"
-       transform="translate(354.2975,525)">
+       transform="translate(354.2975,541)">
       <g
          transform="translate(-261.19944,233.49995)"
          id="g9250-7">
@@ -734,12 +741,12 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8a9294;fill-opacity:1;stroke:none;font-family:Sans"
        x="396.80884"
-       y="2293.0085"
+       y="2309.0085"
        id="text3119-73-8-6-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="396.80884"
-         y="2293.0085"
+         y="2309.0085"
          id="tspan10236-2">Okay, let's be fair ;)</tspan></text>
   </g>
 </svg>

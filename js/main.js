@@ -35,6 +35,24 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
     bPercentage.initializePercentage(1);
     bPercentage.adjustPercentage(remPerc);
 
+    // Initialize comparisons
+    d3.select("#g5279-7-8").remove();
+    d3.select("#g9273-1").remove();
+    var dogComparisonData = {
+        selector: "#g10154",
+        leftValue: moment.duration(52.14, "days"),
+        leftLabel: "Dog year",
+        rightValue : moment.duration(remainDur),
+        rightLabel: "Remaining\ntime",
+        style: {
+            x: 232,
+            y: 1366,
+            leftRadius: 50,
+            middlePadding: 48
+        }
+    };
+    cCompare.initializeComparison(dogComparisonData);
+
     // Start interval timer to adjust counters once every second
     setInterval(function () {
         // Adjust counters, pass callback to each other to update next counter when reaching 0
