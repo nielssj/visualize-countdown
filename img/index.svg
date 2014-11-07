@@ -207,7 +207,7 @@
            id="flowPara3117" /></flowRoot>    </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#58b4f2;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#58b4f2;fill-opacity:1;stroke:none"
        x="396.28552"
        y="701.33594"
        id="days"
@@ -309,7 +309,7 @@
          d="m 126.90588,1024.0783 415.975,0 0,21.895 -415.975,0 0,-21.895 z" />
       <text
          xml:space="preserve"
-         style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
          x="662.73077"
          y="1042.306"
          id="remainPercLabel"
@@ -320,7 +320,7 @@
            y="1042.306">15%</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:20px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         style="font-size:20px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7b7979;fill-opacity:1;stroke:none"
          x="130.3533"
          y="1042.306"
          id="passedPercLabel"
