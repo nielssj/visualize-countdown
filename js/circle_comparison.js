@@ -5,13 +5,16 @@
 cCompare = {};
 
 cCompare.initializeComparison = function(data) {
+    // Insert wrapper
+    var wrapper = d3.select(data.selector).insert("g", ":first-child")
+        .attr("transform", "translate(88.297496,-24)")
+
     // Calculate radius ratio
     var rRatio = svgUtil.radiusRatio(data.leftValue.asSeconds(), data.rightValue.asSeconds());
     var style = data.style;
 
     // Draw left circle
-    d3.select(data.selector)
-        .insert("circle", ":first-child")
+    wrapper.insert("circle", ":first-child")
         .style("fill", "#d3d2d2")
         .attr("r", style.leftRadius)
         .attr("cx", style.x)
@@ -21,8 +24,7 @@ cCompare.initializeComparison = function(data) {
     var rightRadius = style.leftRadius * rRatio;
     var rightX = style.x + style.leftRadius + rightRadius + style.middlePadding;
     var rightY = style.y - (rightRadius - style.leftRadius);
-    d3.select(data.selector)
-        .insert("circle", ":first-child")
+    wrapper.insert("circle", ":first-child")
         .style("fill", "#58b4f2")
         .attr("r", rightRadius)
         .attr("cx", rightX)
@@ -34,6 +36,6 @@ cCompare.initializeComparison = function(data) {
     // Add label above right circle, if defined
     if(data.rightLabel) {
         var labelY = rightY - rightRadius - 7;  // Subtracting circle radius and a bit of padding
-        svgUtil.multiLineText(data.selector, rightX, labelY, data.rightLabel, labelStyle);
+        svgUtil.multiLineText(wrapper, rightX, labelY, data.rightLabel, labelStyle);
     }
 };

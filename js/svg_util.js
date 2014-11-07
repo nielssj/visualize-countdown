@@ -5,10 +5,9 @@
 var svgUtil = {};
 
 // Append multi-line text element at selector (requires predefined line-breaks in content)
-svgUtil.multiLineText = function(selector, x, y, content, style) {
+svgUtil.multiLineText = function(parent, x, y, content, style) {
     // Create wrapper element (text)
-    var text = d3.select(selector)
-        .append("text")
+    var text = parent.append("text")
         .attr("x", x)
         .attr("style", style)
         .attr("xml:space", "preserve")

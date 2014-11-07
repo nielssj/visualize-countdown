@@ -36,11 +36,8 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
     bPercentage.adjustPercentage(remPerc);
 
     // Initialize comparisons
-    d3.select("#g5279-7").remove();
-    d3.select("#g9273-1").remove();
-    d3.select("#remainPercLabel-2-4-3-6-7").remove();
     cCompare.initializeComparison({
-        selector: "#g10154",
+        selector: "#layer1",
         leftValue: moment.duration(52.14, "days"),
         leftLabel: "Dog year",
         rightValue : moment.duration(remainDur),
@@ -52,15 +49,8 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
             middlePadding: 48
         }
     });
-
-    d3.select("#g5283-8-6-7").remove();
-    d3.select("#g10196").remove();
-    d3.select("#remainPercLabel-2-4-3-6").remove();
-    d3.select("#layer1").insert("g", ":first-child")
-        .attr("transform", "translate(88.297496,-24)")
-        .attr("id", "gITU");
     cCompare.initializeComparison({
-        selector: "#gITU",
+        selector: "#layer1",
         leftValue: moment.duration(5, "months"),
         leftLabel: "Semester\n at ITU",
         rightValue : moment.duration(remainDur),
@@ -72,15 +62,8 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
             middlePadding: 38
         }
     });
-
-    d3.select("#g5283-8-66").remove();
-    d3.select("#g5283-8-69-6").remove();
-    d3.select("#remainPercLabel-2-4-3").remove();
-    d3.select("#layer1").insert("g", ":first-child")
-        .attr("transform", "translate(88.297496,-24)")
-        .attr("id", "gTheresa");
     cCompare.initializeComparison({
-        selector: "#gTheresa",
+        selector: "#layer1",
         leftValue: moment.duration(30, "years"),
         leftLabel: "Theresa's\nlifespan\n(so far)",
         rightValue : moment.duration(remainDur),
@@ -104,4 +87,16 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
             });
         });
     }, 1000);
+
+
+    // CLEAN UP GARBAGE FROM SVG    TODO: Figure a more pratical way to deal with this
+    d3.select("#g5279-7").remove();
+    d3.select("#g9273-1").remove();
+    d3.select("#remainPercLabel-2-4-3-6-7").remove();
+    d3.select("#g5283-8-6-7").remove();
+    d3.select("#g10196").remove();
+    d3.select("#remainPercLabel-2-4-3-6").remove();
+    d3.select("#g5283-8-66").remove();
+    d3.select("#g5283-8-69-6").remove();
+    d3.select("#remainPercLabel-2-4-3").remove();
 });
