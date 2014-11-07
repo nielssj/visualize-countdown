@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="558.66553"
-   height="535.64026"
+   width="595.66406"
+   height="1981.8147"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="index.svg">
+   sodipodi:docname="index-relative.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,23 +24,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="511.52049"
-     inkscape:cy="100.46773"
+     inkscape:zoom="1"
+     inkscape:cx="164.52011"
+     inkscape:cy="275.59682"
      inkscape:document-units="px"
-     inkscape:current-layer="g3083"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="20"
-     fit-margin-left="10"
-     fit-margin-right="10"
-     fit-margin-bottom="10"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
      inkscape:window-width="1440"
      inkscape:window-height="876"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid3043"
@@ -48,8 +49,8 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="0.0742px"
-       originy="181.63733px" />
+       originx="18.608742px"
+       originy="1627.8117px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -67,7 +68,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-116.90588,-550.33307)">
+     transform="translate(-98.371338,-550.33307)">
     <g
        id="minutes"
        transform="translate(0.29568719,-1.6419117)">
@@ -328,6 +329,9 @@
            id="tspan3921-7"
            x="130.3533"
            y="1042.306">85%</tspan></text>
+      <g
+         id="g9250-4"
+         transform="translate(366.5,-48.500044)" />
     </g>
     <text
        xml:space="preserve"
@@ -349,5 +353,393 @@
          x="415.13605"
          y="1031.0999"
          id="tspan3071">entire time apart </tspan></text>
+    <g
+       id="g9668"
+       transform="translate(88.638446,338)">
+      <g
+         id="g9687"
+         transform="translate(118,-47)">
+        <g
+           style="fill:#a7a5a6;fill-opacity:1"
+           transform="matrix(4.9308728,0,0,-4.9308728,126.38245,1271.9574)"
+           id="g5283-8-6-7">
+          <path
+             id="path5285-7-8-5"
+             style="fill:#d3d2d2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 0,0 c 9.328,0 16.893,-7.565 16.893,-16.893 0,-9.328 -7.565,-16.893 -16.893,-16.893 -9.329,0 -16.893,7.565 -16.893,16.893 C -16.893,-7.565 -9.329,0 0,0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="remainPercLabel-2-1"
+           y="1351.0789"
+           x="125.83948"
+           style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           xml:space="preserve"><tspan
+             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1"
+             id="tspan9048-2"
+             y="1351.0789"
+             x="125.83948"
+             sodipodi:role="line">Semester</tspan><tspan
+             id="tspan9681"
+             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1"
+             y="1371.0789"
+             x="125.83948"
+             sodipodi:role="line">at ITU</tspan></text>
+      </g>
+      <g
+         id="g10196"
+         transform="translate(82.000001,-6.5602712)">
+        <g
+           transform="translate(259.52343,-41.281304)"
+           id="g9687-6">
+          <g
+             id="g5283-8-6-7-7"
+             transform="matrix(2.67204,0,0,-2.67204,67.38245,1349.1159)"
+             style="fill:#58b4f2;fill-opacity:1">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 0,0 c 9.328,0 16.893,-7.565 16.893,-16.893 0,-9.328 -7.565,-16.893 -16.893,-16.893 -9.329,0 -16.893,7.565 -16.893,16.893 C -16.893,-7.565 -9.329,0 0,0"
+               style="fill:#58b4f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+               id="path5285-7-8-5-4" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           x="326.86145"
+           y="1349.6948"
+           id="remainPercLabel-2-4-0"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="326.86145"
+             y="1349.6948"
+             id="tspan9048-9-3"
+             style="font-size:13px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Remaining</tspan><tspan
+             id="tspan9443-6"
+             sodipodi:role="line"
+             x="326.86145"
+             y="1365.9448"
+             style="font-size:13px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">time</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g9861"
+       transform="translate(340.2975,799)">
+      <g
+         transform="translate(-333.19944,303.49995)"
+         id="g9250">
+        <g
+           id="g5283-8"
+           transform="matrix(5.5747573,0,0,-5.5747573,216.40588,1221.299)"
+           style="fill:#d3d2d2;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 0,0 c 9.328,0 16.893,-7.565 16.893,-16.893 0,-9.328 -7.565,-16.893 -16.893,-16.893 -9.329,0 -16.893,7.565 -16.893,16.893 C -16.893,-7.565 -9.329,0 0,0"
+             style="fill:#d3d2d2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path5285-7" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           x="216.74963"
+           y="1301.4382"
+           id="remainPercLabel-8-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="216.74963"
+             y="1301.4382"
+             style="font-size:16px;fill:#7b7979;fill-opacity:1"
+             id="tspan9187">Theresa's</tspan><tspan
+             sodipodi:role="line"
+             x="216.74963"
+             y="1321.4382"
+             style="font-size:16px;fill:#7b7979;fill-opacity:1"
+             id="tspan9191">lifespan</tspan><tspan
+             sodipodi:role="line"
+             x="216.74963"
+             y="1341.4382"
+             style="font-size:16px;fill:#7b7979;fill-opacity:1"
+             id="tspan9193">(so far)</tspan></text>
+      </g>
+      <g
+         transform="translate(-333.19944,279.87715)"
+         id="g9258">
+        <g
+           id="g5283-8-6"
+           transform="matrix(4.9308728,0,0,-4.9308728,411.90588,1266.6761)"
+           style="fill:#7b7979;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 0,0 c 9.328,0 16.893,-7.565 16.893,-16.893 0,-9.328 -7.565,-16.893 -16.893,-16.893 -9.329,0 -16.893,7.565 -16.893,16.893 C -16.893,-7.565 -9.329,0 0,0"
+             style="fill:#7b7979;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path5285-7-8" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           x="412.05823"
+           y="1335.9382"
+           id="remainPercLabel-8-7-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="412.05823"
+             y="1335.9382"
+             style="font-size:16px;fill:#ffffff;fill-opacity:1"
+             id="tspan9187-5">Niels's</tspan><tspan
+             sodipodi:role="line"
+             x="412.05823"
+             y="1355.9382"
+             style="font-size:16px;fill:#ffffff;fill-opacity:1"
+             id="tspan9191-2">lifespan</tspan><tspan
+             sodipodi:role="line"
+             x="412.05823"
+             y="1375.9382"
+             style="font-size:16px;fill:#ffffff;fill-opacity:1"
+             id="tspan9193-2">(so far)</tspan></text>
+        <g
+           id="g5283-8-6-7-9"
+           transform="matrix(4.9308728,0,0,-4.9308728,451.90588,1089.2989)"
+           style="fill:#a7a5a6;fill-opacity:1" />
+      </g>
+      <g
+         transform="translate(-333.19944,315.27895)"
+         id="g9266">
+        <g
+           id="g5283-8-69"
+           transform="matrix(0.34897981,0,0,-0.34897981,586.90588,1386.0781)"
+           style="fill:#58b4f2;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 0,0 c 9.328,0 16.893,-7.565 16.893,-16.893 0,-9.328 -7.565,-16.893 -16.893,-16.893 -9.329,0 -16.893,7.565 -16.893,16.893 C -16.893,-7.565 -9.329,0 0,0"
+             style="fill:#58b4f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path5285-7-9" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           x="585.82288"
+           y="1330.6052"
+           id="remainPercLabel-2-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="585.82288"
+             y="1330.6052"
+             id="tspan9048-9"
+             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">Remaining</tspan><tspan
+             sodipodi:role="line"
+             x="585.82288"
+             y="1350.6052"
+             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1"
+             id="tspan9248">time</tspan><tspan
+             id="tspan9443"
+             sodipodi:role="line"
+             x="585.82288"
+             y="1370.6052"
+             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">(of being apart)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g10154"
+       transform="translate(88.297496,-24)">
+      <g
+         id="g9273"
+         transform="translate(12.247375,200.99998)">
+        <g
+           id="g5279-7"
+           transform="matrix(1.875,0,0,-1.875,220.22525,1098.7146)"
+           style="fill:#d3d2d2;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 0,0 c 14.801,0 26.804,-12.003 26.804,-26.805 0,-14.8 -12.003,-26.804 -26.804,-26.804 -14.801,0 -26.805,12.004 -26.805,26.804 C -26.805,-12.003 -14.801,0 0,0"
+             style="fill:#d3d2d2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path5281-9" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           x="220.15791"
+           y="1143.0785"
+           id="remainPercLabel-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3921-2"
+             x="220.15791"
+             y="1143.0785"
+             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">Dog</tspan><tspan
+             sodipodi:role="line"
+             x="220.15791"
+             y="1163.0785"
+             id="tspan9048"
+             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">year</tspan></text>
+      </g>
+      <g
+         id="g9280"
+         transform="translate(32.247379,200.99998)">
+        <g
+           id="g5279-7-8"
+           transform="matrix(2.1058125,0,0,-2.1058125,344.90694,1086.5281)"
+           style="fill:#58b4f2;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 0,0 c 14.801,0 26.804,-12.003 26.804,-26.805 0,-14.8 -12.003,-26.804 -26.804,-26.804 -14.801,0 -26.805,12.004 -26.805,26.804 C -26.805,-12.003 -14.801,0 0,0"
+             style="fill:#58b4f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path5281-9-9" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           x="344.91467"
+           y="1138.4338"
+           id="remainPercLabel-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3921-8"
+             x="344.91467"
+             y="1138.4338"
+             style="font-size:16px">Remaining</tspan><tspan
+             sodipodi:role="line"
+             x="344.91467"
+             y="1158.4338"
+             id="tspan9071"
+             style="font-size:16px">time</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8a9294;fill-opacity:1;stroke:none;font-family:Sans"
+       x="394.24048"
+       y="1187.1687"
+       id="text3119-73"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="400.60767"
+         y="1187.1687"
+         id="tspan3123-8">For a dog this could </tspan><tspan
+         sodipodi:role="line"
+         x="394.24048"
+         y="1237.1687"
+         id="tspan10152">seem a long time</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8a9294;fill-opacity:1;stroke:none;font-family:Sans"
+       x="396.98462"
+       y="1482.0085"
+       id="text3119-73-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="403.35181"
+         y="1482.0085"
+         id="tspan10152-7">Better compare it to </tspan><tspan
+         sodipodi:role="line"
+         x="396.98462"
+         y="1532.0085"
+         id="tspan10194">something more substantial</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8a9294;fill-opacity:1;stroke:none;font-family:Sans"
+       x="396.2229"
+       y="1846.0085"
+       id="text3119-73-8-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="402.59009"
+         y="1846.0085"
+         id="tspan10230">Hmm, perhaps if I </tspan><tspan
+         sodipodi:role="line"
+         x="402.59009"
+         y="1896.0085"
+         id="tspan10234">compared it to an </tspan><tspan
+         sodipodi:role="line"
+         x="396.2229"
+         y="1946.0085"
+         id="tspan10236">unfathomly long timespan</tspan></text>
+    <g
+       id="g9861-6"
+       transform="translate(354.2975,525)">
+      <g
+         transform="translate(-261.19944,233.49995)"
+         id="g9250-7">
+        <g
+           id="g5283-8-66"
+           transform="matrix(5.5747573,0,0,-5.5747573,216.40588,1221.299)"
+           style="fill:#d3d2d2;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 0,0 c 9.328,0 16.893,-7.565 16.893,-16.893 0,-9.328 -7.565,-16.893 -16.893,-16.893 -9.329,0 -16.893,7.565 -16.893,16.893 C -16.893,-7.565 -9.329,0 0,0"
+             style="fill:#d3d2d2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path5285-7-0" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           x="216.74963"
+           y="1301.4382"
+           id="remainPercLabel-8-7-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="216.74963"
+             y="1301.4382"
+             style="font-size:16px;fill:#7b7979;fill-opacity:1"
+             id="tspan9187-4">Theresa's</tspan><tspan
+             sodipodi:role="line"
+             x="216.74963"
+             y="1321.4382"
+             style="font-size:16px;fill:#7b7979;fill-opacity:1"
+             id="tspan9191-6">lifespan</tspan><tspan
+             sodipodi:role="line"
+             x="216.74963"
+             y="1341.4382"
+             style="font-size:16px;fill:#7b7979;fill-opacity:1"
+             id="tspan9193-4">(so far)</tspan></text>
+      </g>
+      <g
+         transform="translate(-433.19944,245.27895)"
+         id="g9266-8">
+        <g
+           id="g5283-8-69-6"
+           transform="matrix(0.34897981,0,0,-0.34897981,586.90588,1386.0781)"
+           style="fill:#58b4f2;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 0,0 c 9.328,0 16.893,-7.565 16.893,-16.893 0,-9.328 -7.565,-16.893 -16.893,-16.893 -9.329,0 -16.893,7.565 -16.893,16.893 C -16.893,-7.565 -9.329,0 0,0"
+             style="fill:#58b4f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path5285-7-9-7" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           x="585.82288"
+           y="1330.6052"
+           id="remainPercLabel-2-4-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="585.82288"
+             y="1330.6052"
+             id="tspan9048-9-5"
+             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">Remaining</tspan><tspan
+             sodipodi:role="line"
+             x="585.82288"
+             y="1350.6052"
+             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1"
+             id="tspan9248-0">time</tspan><tspan
+             id="tspan9443-9"
+             sodipodi:role="line"
+             x="585.82288"
+             y="1370.6052"
+             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">(of being apart)</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8a9294;fill-opacity:1;stroke:none;font-family:Sans"
+       x="396.80884"
+       y="2293.0085"
+       id="text3119-73-8-6-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="396.80884"
+         y="2293.0085"
+         id="tspan10236-2">Okay, let's be fair ;)</tspan></text>
   </g>
 </svg>
