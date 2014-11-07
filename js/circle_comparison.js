@@ -7,7 +7,7 @@ cCompare = {};
 cCompare.initializeComparison = function(data) {
     // Insert wrapper
     var wrapper = d3.select(data.selector).insert("g", ":first-child")
-        .attr("transform", "translate(88.297496,-24)")
+        .attr("transform", "translate(88.297496,-24)");
 
     // Calculate radius ratio
     var rRatio = svgUtil.radiusRatio(data.leftValue.asSeconds(), data.rightValue.asSeconds());

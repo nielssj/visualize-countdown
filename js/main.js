@@ -75,6 +75,19 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
             middlePadding: 99
         }
     });
+    cCompare.initializeComparison({
+        selector: "#layer1",
+        leftValue: moment.duration(30, "years"),
+        leftLabel: "Theresa's\nlifespan\n(so far)",
+        rightValue : moment.duration(remainDur),
+        rightLabel: "Remaining\ntime\n(of being apart)",
+        style: {
+            x: 135,
+            y: 2458,
+            leftRadius: 94,
+            middlePadding: 270
+        }
+    });
 
     // Start interval timer to adjust counters once every second
     setInterval(function () {
@@ -99,4 +112,6 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
     d3.select("#g5283-8-66").remove();
     d3.select("#g5283-8-69-6").remove();
     d3.select("#remainPercLabel-2-4-3").remove();
+    d3.select("#g9266").remove();
+    d3.select("#g5283-8").remove();
 });
