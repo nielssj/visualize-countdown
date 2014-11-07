@@ -28,10 +28,8 @@ cCompare.initializeComparison = function(data) {
         .attr("cx", rightX)
         .attr("cy", rightY);
 
-    // Get style from label template and remove it afterwards
-    var labelTemplate = d3.select("#remainPercLabel-2-4-3-6-7");
-    var labelStyle = labelTemplate.attr("style");
-    labelTemplate.remove();
+    // Get style from label template and remove it afterwards (TODO: Move this to a stylesheet)
+    var labelStyle = "font-size:14px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold";
 
     // Add label above right circle, if defined
     if(data.rightLabel) {

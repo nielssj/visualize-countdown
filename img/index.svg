@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-419.8118"
-     inkscape:cy="974.43063"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="259.26784"
+     inkscape:cy="597.2747"
      inkscape:document-units="px"
-     inkscape:current-layer="g10154"
+     inkscape:current-layer="g11015"
      showgrid="false"
      fit-margin-top="20"
      fit-margin-left="20"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -354,75 +354,71 @@
          y="1031.0999"
          id="tspan3071">entire time apart </tspan></text>
     <g
-       id="g9668"
-       transform="translate(88.638446,354)">
+       transform="translate(206.63845,307)"
+       id="g9687">
       <g
-         id="g9687"
-         transform="translate(118,-47)">
-        <g
-           style="fill:#a7a5a6;fill-opacity:1"
-           transform="matrix(4.9308728,0,0,-4.9308728,126.38245,1271.9574)"
-           id="g5283-8-6-7">
-          <path
-             id="path5285-7-8-5"
-             style="fill:#d3d2d2;fill-opacity:1;fill-rule:evenodd;stroke:none"
-             d="m 0,0 c 9.328,0 16.893,-7.565 16.893,-16.893 0,-9.328 -7.565,-16.893 -16.893,-16.893 -9.329,0 -16.893,7.565 -16.893,16.893 C -16.893,-7.565 -9.329,0 0,0"
-             inkscape:connector-curvature="0" />
-        </g>
-        <text
-           sodipodi:linespacing="125%"
-           id="remainPercLabel-2-1"
-           y="1351.0789"
-           x="125.83948"
-           style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-           xml:space="preserve"><tspan
-             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1"
-             id="tspan9048-2"
-             y="1351.0789"
-             x="125.83948"
-             sodipodi:role="line">Semester</tspan><tspan
-             id="tspan9681"
-             style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1"
-             y="1371.0789"
-             x="125.83948"
-             sodipodi:role="line">at ITU</tspan></text>
-      </g>
-      <g
-         id="g10196"
-         transform="translate(82.000001,-6.5602712)">
-        <g
-           transform="translate(259.52343,-41.281304)"
-           id="g9687-6">
-          <g
-             id="g5283-8-6-7-7"
-             transform="matrix(2.67204,0,0,-2.67204,67.38245,1349.1159)"
-             style="fill:#58b4f2;fill-opacity:1">
-            <path
-               inkscape:connector-curvature="0"
-               d="m 0,0 c 9.328,0 16.893,-7.565 16.893,-16.893 0,-9.328 -7.565,-16.893 -16.893,-16.893 -9.329,0 -16.893,7.565 -16.893,16.893 C -16.893,-7.565 -9.329,0 0,0"
-               style="fill:#58b4f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
-               id="path5285-7-8-5-4" />
-          </g>
-        </g>
+         id="g5283-8-6-7"
+         transform="matrix(4.9308728,0,0,-4.9308728,126.38245,1271.9574)"
+         style="fill:#a7a5a6;fill-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 0,0 c 9.328,0 16.893,-7.565 16.893,-16.893 0,-9.328 -7.565,-16.893 -16.893,-16.893 -9.329,0 -16.893,7.565 -16.893,16.893 C -16.893,-7.565 -9.329,0 0,0"
+           style="fill:#d3d2d2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path5285-7-8-5" />
       </g>
       <text
          xml:space="preserve"
-         style="font-size:14px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         x="408.85803"
-         y="1274.6171"
-         id="remainPercLabel-2-4-3-6"
+         style="font-size:20px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="125.83948"
+         y="1351.0789"
+         id="remainPercLabel-2-1"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           x="408.85803"
-           y="1274.6171"
-           id="tspan9048-9-5-3"
-           style="font-size:14px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">Remaining</tspan><tspan
-           id="tspan9443-9-8"
+           x="125.83948"
+           y="1351.0789"
+           id="tspan9048-2"
+           style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">Semester</tspan><tspan
            sodipodi:role="line"
-           x="408.85803"
-           y="1292.1171"
-           style="font-size:14px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1">time</tspan></text>
+           x="125.83948"
+           y="1371.0789"
+           style="font-size:16px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1"
+           id="tspan9681">at ITU</tspan></text>
     </g>
+    <g
+       transform="translate(170.63845,347.43973)"
+       id="g10196">
+      <g
+         id="g9687-6"
+         transform="translate(259.52343,-41.281304)">
+        <g
+           style="fill:#58b4f2;fill-opacity:1"
+           transform="matrix(2.67204,0,0,-2.67204,67.38245,1349.1159)"
+           id="g5283-8-6-7-7">
+          <path
+             id="path5285-7-8-5-4"
+             style="fill:#58b4f2;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 0,0 c 9.328,0 16.893,-7.565 16.893,-16.893 0,-9.328 -7.565,-16.893 -16.893,-16.893 -9.329,0 -16.893,7.565 -16.893,16.893 C -16.893,-7.565 -9.329,0 0,0"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="remainPercLabel-2-4-3-6"
+       y="1628.6171"
+       x="497.49649"
+       style="font-size:14px;font-style:normal;font-weight:bold;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#7b7979;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-size:14px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1"
+         id="tspan9048-9-5-3"
+         y="1628.6171"
+         x="497.49649"
+         sodipodi:role="line">Remaining</tspan><tspan
+         style="font-size:14px;text-align:center;text-anchor:middle;fill:#7b7979;fill-opacity:1"
+         y="1646.1171"
+         x="497.49649"
+         sodipodi:role="line"
+         id="tspan9443-9-8">time</tspan></text>
     <g
        id="g9861"
        transform="translate(340.2975,815)">

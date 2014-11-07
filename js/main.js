@@ -36,8 +36,9 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
     bPercentage.adjustPercentage(remPerc);
 
     // Initialize comparisons
-    d3.select("#g5279-7-8").remove();
+    d3.select("#g5279-7").remove();
     d3.select("#g9273-1").remove();
+    d3.select("#remainPercLabel-2-4-3-6-7").remove();
     var dogComparisonData = {
         selector: "#g10154",
         leftValue: moment.duration(52.14, "days"),
@@ -52,6 +53,48 @@ d3.xml("img/index.svg", "image/svg+xml", function(xml) {
         }
     };
     cCompare.initializeComparison(dogComparisonData);
+
+    d3.select("#g5283-8-6-7").remove();
+    d3.select("#g10196").remove();
+    d3.select("#remainPercLabel-2-4-3-6").remove();
+    d3.select("#layer1").insert("g", ":first-child")
+        .attr("transform", "translate(88.297496,-24)")
+        .attr("id", "gITU");
+    var ituComparisonData = {
+        selector: "#gITU",
+        leftValue: moment.duration(5, "months"),
+        leftLabel: "Semester\n at ITU",
+        rightValue : moment.duration(remainDur),
+        rightLabel: "Remaining\ntime",
+        style: {
+            x: 245,
+            y: 1686,
+            leftRadius: 83,
+            middlePadding: 38
+        }
+    };
+    cCompare.initializeComparison(ituComparisonData);
+
+    d3.select("#g5283-8-66").remove();
+    d3.select("#g5283-8-69-6").remove();
+    d3.select("#remainPercLabel-2-4-3").remove();
+    d3.select("#layer1").insert("g", ":first-child")
+        .attr("transform", "translate(88.297496,-24)")
+        .attr("id", "gTheresa");
+    var ituComparisonData = {
+        selector: "#gTheresa",
+        leftValue: moment.duration(30, "years"),
+        leftLabel: "Theresa's\nlifespan\n(so far)",
+        rightValue : moment.duration(remainDur),
+        rightLabel: "Remaining\ntime\n(of being apart)",
+        style: {
+            x: 221,
+            y: 2114,
+            leftRadius: 94,
+            middlePadding: 99
+        }
+    };
+    cCompare.initializeComparison(ituComparisonData);
 
     // Start interval timer to adjust counters once every second
     setInterval(function () {
