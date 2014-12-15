@@ -12,7 +12,7 @@ tUtil.currentSecond = function(to, from) {
         current: rem.seconds(),
         currentUnits: "s",
         currentRad: rem.seconds() * 0.104666667,
-        total: Math.ceil(rem.asMinutes()),
+        total: Math.floor(rem.asMinutes()),
         totalUnits: "m",
         refillValue: 59
     }
@@ -26,7 +26,7 @@ tUtil.currentMinute = function(to, from) {
         current: rem.minutes(),
         currentUnits: "m",
         currentRad: rem.minutes() * 0.104666667,
-        total: Math.ceil(rem.asHours()),
+        total: Math.floor(rem.asHours()),
         totalUnits: "h",
         refillValue: 59
     }
@@ -40,7 +40,7 @@ tUtil.currentHour = function(to, from) {
         current: rem.hours(),
         currentUnits: "h",
         currentRad: rem.hours() * 0.261666667,
-        total: Math.ceil(rem.asDays()),
+        total: Math.floor(rem.asDays()),
         totalUnits: " days",
         refillValue: 23
     }
